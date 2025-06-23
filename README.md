@@ -10,7 +10,7 @@
 
 ## Like
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,ros,opencv,pytorch,tensorflow,docker,git,vscode,pycharm,ubuntu,cLionlinux&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,ros,opencv,pytorch,docker,git,vscode,pycharm,ubuntu,clionlinux&perline=8)](https://skillicons.dev)
 
 
 <!---
