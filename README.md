@@ -10,7 +10,8 @@
 
 ## Like
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,cs,ts,unity,dotnet,react,docker,git,rider,vscode,neovim,arch,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,ros,stm32,opencv,pytorch,tensorflow,docker,git,vscode,neovim,linux&perline=8)](https://skillicons.dev)
+
 
 <!---
 NOPLAB/NOPLAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
