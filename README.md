@@ -14,7 +14,7 @@
 
 ## Like
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,ros,opencv,pytorch,skrl,docker,git,vscode,pycharm,clion,ubuntu,linux&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,ros,opencv,pytorch,docker,git,vscode,pycharm,clion,ubuntu,linux&perline=8)](https://skillicons.dev)
 
 
 <!---
