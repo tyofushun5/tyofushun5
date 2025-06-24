@@ -6,7 +6,8 @@
 
 - Robot
 - LowLayer
-- WebApplication
+- MachineLearning
+- DeepLearning
 
 ## Like
 
