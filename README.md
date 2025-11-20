@@ -2,7 +2,6 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tyofushun5&theme=github_dark&show_icons=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyofushun5&layout=compact&theme=github_dark" />
 </p>
 
 ## Like
