@@ -1,6 +1,6 @@
 ## GitHub Stats
 
-<p align="left">
+<p align="central">
   <img
     height="150"
     src="https://github-readme-stats.vercel.app/api?username=tyofushun5&theme=github_dark&show_icons=true"
