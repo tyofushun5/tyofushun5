@@ -1,12 +1,17 @@
 ## GitHub Stats
 
-<p align="left">
-  <!-- Dark mode -->
-  <img height="160"
-       src="https://<あなたのVercel>.vercel.app/api?username=tyofushun5&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark_dimmed#gh-dark-mode-only"
-       alt="GitHub stats (dark)" />
-  <!-- Light mode -->
-  <img height="160"
-       src="https://<あなたのVercel>.vercel.app/api?username=tyofushun5&show_icons=true&hide_border=true&rank_icon=github&theme=default#gh-light-mode-only"
-       alt="GitHub stats (light)" />
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=tyofushun5&show_icons=true&hide_border=true&theme=github_dark_dimmed&v=2"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=tyofushun5&show_icons=true&hide_border=true&theme=default&v=2"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=tyofushun5&show_icons=true&hide_border=true&theme=default&v=2"
+    alt="GitHub stats"
+  />
+</picture>
