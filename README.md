@@ -1,17 +1,9 @@
-## GitHub Stats
-
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=tyofushun5&show_icons=true&hide_border=true&theme=github_dark_dimmed&v=2"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=tyofushun5&show_icons=true&hide_border=true&theme=default&v=2"
-  />
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=tyofushun5&show_icons=true&hide_border=true&theme=default&v=2"
-    alt="GitHub stats"
-  />
+  <source media="(prefers-color-scheme: dark)"
+          srcset="BASE_URL/api?username=tyofushun5&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=github_dark_dimmed" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="BASE_URL/api?username=tyofushun5&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=default" />
+  <img height="160"
+       alt="GitHub stats"
+       src="BASE_URL/api?username=tyofushun5&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=default" />
 </picture>
