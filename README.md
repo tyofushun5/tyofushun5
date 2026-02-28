@@ -1,3 +1,5 @@
+## GitHub Stats
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://github-readme-stats.vercel.app/api?username=tyofushun5&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark_dimmed" />
