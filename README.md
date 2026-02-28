@@ -1,4 +1,4 @@
-<p align="left">
+<p align="centner">
   <img height="160"
        src="https://github-readme-stats-fast.vercel.app/api?username=tyofushun5&show_icons=true&hide_border=true&theme=github_dark_dimmed"
        alt="GitHub stats" />
