@@ -17,7 +17,7 @@
 
 | Repository | Description |
 | :-- | :-- |
-| [dreamerv2](https://github.com/tyofushun5/dreamerv2) | Reimplementation of DreamerV2. |
+| [dreamerv2-torch](https://github.com/tyofushun5/dreamerv2-torch) | Reimplementation of DreamerV2. |
 
 ### Robotics / ROS
 
